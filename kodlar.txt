@@ -3,3 +3,4 @@ v2 ikinci kodlarim...
 v3 senanin yazdigi kodlar
 v4 master in duzenledigi kodlar
 v5 stash e atilacak kodlar
+GitHub da yapilan degisiklikler
