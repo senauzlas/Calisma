@@ -4,3 +4,4 @@ v3 senanin yazdigi kodlar
 v4 master in duzenledigi kodlar
 v5 stash e atilacak kodlar
 GitHub da yapilan degisiklikler
+v6 yeni kodlar
